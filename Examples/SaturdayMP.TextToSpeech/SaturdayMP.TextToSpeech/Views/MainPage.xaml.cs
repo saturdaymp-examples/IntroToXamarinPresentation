@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace SaturdayMP.TextToSpeech
+namespace SaturdayMP.TextToSpeech.Views
 {
     public partial class MainPage : ContentPage
     {

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:vm="clr-namespace:SaturdayMP.TextToSpeech.ViewModels"
+             x:Class="SaturdayMP.TextToSpeech.Views.MainPage"
+             Title="Say It Page">
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Orientation="Vertical" VerticalOptions="Center" Padding="10">
+        <Entry Placeholder="What would you like say?" Text="{Binding SayItText}" />
+        <Button Text="Say It!" Command="{Binding SayItCommand}" />
+    </StackLayout>
+</ContentPage>

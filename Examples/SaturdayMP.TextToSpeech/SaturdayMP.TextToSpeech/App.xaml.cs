@@ -9,7 +9,7 @@ namespace SaturdayMP.TextToSpeech
             InitializeComponent();
 
             // Create main page.
-            MainPage = new MainPage();
+            MainPage = new Views.MainPage();
         }
     }
 }
