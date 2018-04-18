@@ -112,6 +112,7 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Platforms\TextToSpeech.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -131,6 +132,7 @@
     <Folder Include="Resources\mipmap-xxhdpi\" />
     <Folder Include="Resources\mipmap-xxxhdpi\" />
     <Folder Include="Resources\drawable\" />
+    <Folder Include="Platforms\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SaturdayMP.TextToSpeech\SaturdayMP.TextToSpeech.csproj">

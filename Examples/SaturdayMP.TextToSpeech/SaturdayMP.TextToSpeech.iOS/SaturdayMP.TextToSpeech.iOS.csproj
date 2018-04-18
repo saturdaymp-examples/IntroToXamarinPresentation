@@ -106,6 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Platforms\" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
@@ -118,6 +119,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="Platforms\TextToSpeech.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SaturdayMP.TextToSpeech\SaturdayMP.TextToSpeech.csproj">
