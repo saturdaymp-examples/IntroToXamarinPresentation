@@ -15,4 +15,4 @@ The demos where created and tested using [Visual Studio 2017 Mac](https://www.vi
 If you have any questions or spot an error in the slides or demos please let me know by opening a [issue](https://github.com/saturdaymp/IntroToXamarinPresentation/issues).
 
 # Acknowledgments
-This presentation was created for and presented at the [Edmonton Mobile Developers (iOS and Android)](https://www.meetup.com/startupedmonton/events/247630796/).  Thank you for giving me the opportunity to present.
+This presentation was orginally created for the [Edmonton Mobile Developers (iOS and Android)](https://www.meetup.com/startupedmonton/events/247630796/).  Thank you for giving me the opportunity to present.
