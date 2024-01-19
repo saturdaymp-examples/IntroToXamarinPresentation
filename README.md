@@ -1,6 +1,8 @@
 # Introduction to Xamarin Presentation
 A presenation that introduces Xamarin to developers who are familiar with mobile development but not Xamarin.  The presentation dicusses [Xamarin](https://www.xamarin.com/) architecture from a high level including [Xamarin Forms](https://www.xamarin.com/forms) and writing platform specific code for iOS and Android.
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/saturdaymp?label=Sponsors&logo=githubsponsors&labelColor=3C444C)](https://github.com/sponsors/saturdaymp)
+
 # Demo Quickstart
 To run the demos download and install [Visual Studio 2017](https://www.visualstudio.com)  (there is a free community version).  You can install Visual Studio on Windows or Mac.  To run the demos:
 
